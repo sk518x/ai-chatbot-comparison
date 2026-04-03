@@ -40,7 +40,7 @@ Changes include:
 * eliza-built-in-output.png – Original ELIZA chatbot output (predefined rules)
 * eliza-custom-rules-output.png – Modified ELIZA with custom patterns/responses
 * llm-generative-output.png – Transformer-based chatbot output (Hugging Face)
-* chat-comparison-1.png, gui-chat-comparison-2.png, gui-chat-comparison-3.png – Sequential GUI * screenshots for side-by-side comparison
+* chat-comparison-1.png, gui-chat-comparison-2.png, gui-chat-comparison-3.png – Sequential GUI screenshots for side-by-side comparison
 
 ## Conclusion
 
