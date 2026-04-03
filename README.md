@@ -12,7 +12,7 @@ The project follows a stepwise approach: starting with the original ELIZA chatbo
 ## Project Structure (Python Scripts)
 
 * eliza.py – Original ELIZA chatbot (predefined rules)
-* eliza(1).py – Modified ELIZA (custom patterns/responses)
+* eliza_modified.py – Modified ELIZA (custom patterns/responses)
 * LLM.py – Transformer-based chatbot (Hugging Face)
 * chat_comparison.py – GUI for side-by-side comparison
 
@@ -38,7 +38,7 @@ Changes include:
 ## Output Evidence (Screenshots)
 
 * eliza-built-in-output.png – Original ELIZA chatbot output (predefined rules)
-* eliza-custom-rules-output.png – Modified ELIZA with custom patterns/responses
+* eliza-modified-output.png – Modified ELIZA with custom patterns/responses
 * llm-generative-output.png – Transformer-based chatbot output (Hugging Face)
 * chat-comparison-1.png, gui-chat-comparison-2.png, gui-chat-comparison-3.png – GUI comparison of original ELIZA and LLM  
 
