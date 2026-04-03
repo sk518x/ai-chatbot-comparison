@@ -4,7 +4,7 @@
 
 This project compares two conversational AI systems:
 
-* ELIZA(Past AI): Rule-based chatbot using pattern matching.
+* ELIZA (Past AI): Rule-based chatbot using pattern matching.
 * LLM (Modern AI): Transformer-based model generating context-aware responses.
   
 The project follows a stepwise approach: starting with the original ELIZA chatbot, extending it with custom rules, implementing a Transformer-based LLM, and finally comparing the original ELIZA and LLM side-by-side in a Tkinter GUI using similar inputs.
